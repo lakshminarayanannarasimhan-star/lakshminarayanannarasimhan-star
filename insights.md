@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Insights
@@ -6,6 +7,5 @@ title: Insights
 # Insights
 
 {% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
-{{ post.excerpt }}
+<a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
