@@ -1,4 +1,5 @@
-
-title: Strategic Technology Initiatives
-markdown: kramdown
-permalink: /:title.html
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
