@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: About
@@ -5,4 +6,4 @@ title: About
 
 # About
 
-Independent consulting and think tank initiative.
+Independent consulting and think tank focused on technology strategy and systems architecture.

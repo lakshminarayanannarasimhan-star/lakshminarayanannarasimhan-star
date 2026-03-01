@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Consulting
@@ -5,4 +6,4 @@ title: Consulting
 
 # Consulting
 
-Strategic consulting across systems, infrastructure, and platforms.
+Strategic consulting across infrastructure, distributed systems, and technology platforms.
