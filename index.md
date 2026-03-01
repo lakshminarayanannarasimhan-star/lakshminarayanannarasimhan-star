@@ -1,38 +1,13 @@
-
-Need to upload this123
-
-# Strategic Technology Initiative
-
-Independent consulting and think tank focused on technology strategy, infrastructure, and systems architecture.
-
+---
+title: Jekyll Serif Theme
+layout: home
+description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+intro_image: "images/illustrations/pointing.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+show_call_box: true
 ---
 
-## Consulting
+# Serif - A Jekyll Business Theme.
 
-Providing strategic consulting across:
-
-- Technology strategy  
-- Infrastructure architecture  
-- Distributed systems  
-- Platform scalability  
-
----
-
-## Research and Insights
-
-- [Insights](insights.html)
-
----
-
-## Domains
-
-- Infrastructure Architecture  
-- Distributed Systems  
-- Technology Strategy  
-- Industry Analysis  
-
----
-
-## About
-
-Learn more about the initiative: [About](about.html)
+Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
