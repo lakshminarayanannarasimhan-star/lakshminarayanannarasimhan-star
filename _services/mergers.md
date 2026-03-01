@@ -1,15 +1,14 @@
 ---
-title: About
-layout: page
-description: About
-bodyClass: page-about
+title: "Mergers"
+date: 2019-02-28T15:15:34+10:00
+weight: 3
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
+Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 

@@ -1,15 +1,12 @@
 ---
-title: About
-layout: page
-description: About
-bodyClass: page-about
+title: "Accounting"
+date: 2018-11-18T12:33:46+10:00
+weight: 1
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
