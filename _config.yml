@@ -2,3 +2,4 @@
 title: Strategic Technology Initiative
 description: Technology strategy, infrastructure, and systems consulting
 theme: hacker
+permalink: /:title.html
